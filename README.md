@@ -6,4 +6,3 @@
       
       
 ![Screenshot_201](https://github.com/baykalfurkan/fighter_jet_comparison/assets/120893520/d23f967f-18cc-49e1-87b5-53e5befcb916)
-(working logic as an example)
